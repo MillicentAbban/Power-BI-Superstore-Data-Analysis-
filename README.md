@@ -17,7 +17,7 @@ Questions to be Analysed
 - What is the distribution of Customer segments by Revenue ?
 - Which category or categories have been doing well obver the years ?
 - What are the Top Revenue States ?
-- 
+- What ar ethe least profitable products ?
 
 
 
