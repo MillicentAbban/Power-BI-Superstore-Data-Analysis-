@@ -15,7 +15,8 @@ growth of the business .
 Questions to be Analysed 
 - Who are our top customers by Revenue ?
 - What is the distribution of Customer segments by Revenue over the years?
-- Which Sub- categories are bring in more profit and a dip dive into which exact products are in this sub- category ?
+- Which Sub- categories are bring in more profit and a dip dive into which exact products are in this 
+sub- category ?
 - What is the amount of revenue the various states are making over the years ?
 - Which day/days of the week are selling more and identify if there are any trends?
 - what are the profit for each month over the years ?
