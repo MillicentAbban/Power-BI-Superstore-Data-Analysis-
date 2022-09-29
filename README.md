@@ -13,11 +13,12 @@ Analyses of the sales and profits against the other categories to identify insig
 growth of the business .
 
 Questions to be Analysed 
-- Who are our top customers by Revenue and Products ?
-- What is the distribution of Customer segments by Revenue ?
-- Which category or categories have been doing well obver the years ?
-- What are the Top Revenue States ?
-- What ar ethe least profitable products ?
+- Who are our top customers by Revenue ?
+- What is the distribution of Customer segments by Revenue over the years?
+- Which Sub- categories are bring in more profit and a dip dive into which exact products are in this sub- category ?
+- What is the amount of revenue the various states are making over the years ?
+- Which day/days of the week are selling more and identify if there are any trends?
+- what are the profit for each month over the years ?
 
 
 
