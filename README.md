@@ -7,7 +7,7 @@ Super store is a retail store that deals in the sale of office furniture, office
 supplies in the United states. Their customer base consist of Consumers, Coperate and Home Offices . The 
 dataset consits of information ranging from sales,profits , product categories, shipping mode , regions
 among others . 
-I have included [here] (https://app.powerbi.com/groups/me/reports/f6146c21-2ffc-4dc3-ac60-4022ef9620d8/ReportSectioncfa200bcec86b75680d1)
+I have included [here](https://app.powerbi.com/groups/me/reports/f6146c21-2ffc-4dc3-ac60-4022ef9620d8/ReportSectioncfa200bcec86b75680d1)
 a link to my PowerBI Service online where the report can be found and intereacted with using the different slicers.
 ## Activities
 Analyses of the sales and profits against the other categories to identify insights that can assit the 
