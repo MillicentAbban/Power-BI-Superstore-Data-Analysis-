@@ -1,4 +1,4 @@
-# SuperStore--Analysis-
+# SuperStore Analysis
 
 ### Data Analysis on Super store Dataset
 
